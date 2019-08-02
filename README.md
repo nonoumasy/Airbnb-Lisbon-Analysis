@@ -1,3 +1,3 @@
 # Airbnb-Lisbon-Analysis
 
-![Lisboa](Artboard Copy 2.png)
+![Lisboa](https://github.com/nonoumasy/Airbnb-Lisbon-Analysis/blob/master/Artboard%20Copy%202.png?raw=true)
